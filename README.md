@@ -1,6 +1,6 @@
 # lass Project
 
-## SHP -> GeoJSON
+## SHP → GeoJSON
 
 Installation:
 ```sh
@@ -14,7 +14,7 @@ Command:
 ogr2ogr -f "GeoJSON" output.json source.shp
 ```
 
-## GeoJSON -> TopoJSON
+## GeoJSON → TopoJSON
 
 Installation:
 ```sh
